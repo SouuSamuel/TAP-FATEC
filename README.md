@@ -44,7 +44,7 @@ Consolidar o aprendizado por meio da prática, aplicando técnicas avançadas pa
 
 ## 👨‍💻 Autor
 
-**Seu Nome Aqui**  
+**Samuel Jesus Gonzaga do Nascimento**  
 Aluno de Análise e Desenvolvimento de Sistemas  
 FATEC Sorocaba
 

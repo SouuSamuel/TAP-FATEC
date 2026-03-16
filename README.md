@@ -49,6 +49,7 @@ Aluno de Análise e Desenvolvimento de Sistemas
 FATEC Sorocaba
 
 ---
+https://glaucotodesco.notion.site/T-cnicas-Avan-adas-de-Programa-o-3175d52a81f5800f813fc63a5199d684
 
 <p align="center">
 ✨ Repositório acadêmico para fins educacionais ✨
